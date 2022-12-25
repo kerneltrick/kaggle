@@ -129,3 +129,6 @@ dmypy.json
 
 # Data storage
 data/
+
+# Jupyter notebook artifacts
+.ipynb*
